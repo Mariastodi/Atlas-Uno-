@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Logs e dependências (caso use futuramente)
+node_modules/
+*.log
+.env
