@@ -32,10 +32,15 @@ O Método Atlas Uno une a precisão técnica do Pilates Clássico e Clínico a u
 
 ```text
 Atlas-Uno/
+├── assets/
+│   ├── brand/
+│   │   └── logo-symbol.svg
+│   └── icons/
+│       └── favicon.ico
 ├── css/
 │   └── styles.css          
 ├── js/
 │   └── script.js           
 ├── index.html             
 ├── .gitignore            
-└── README.md               
+└── README.md
